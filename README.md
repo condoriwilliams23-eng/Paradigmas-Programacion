@@ -13,7 +13,7 @@ El archivo TP1.st representa mi primer contacto con la Orientación a Objetos pu
 * A diferencia de otros lenguajes, aquí todo es un objeto y todo se resuelve mediante mensajes. 
 * Subí también el enunciado del TP de POO para que se entienda el contexto del desafío que tuvimos que resolver.
 
-### 🛠️ Herramientas utilizadas
+### Herramientas utilizadas
 * SWI-Prolog: Para ejecutar y testear las bases lógicas.
 * Pharo: Dependiendo del paradigma, usamos entornos que nos permitieran ver el comportamiento de los objetos o la inferencia de las reglas.
 
