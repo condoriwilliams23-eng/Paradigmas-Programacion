@@ -3,7 +3,7 @@ En este repositorio guardo los trabajos prácticos donde exploramos formas disti
 
 ###  ¿Qué vas a encontrar aquí?
 
-**1. El mundo de la Lógica (Prolog)**
+**1. Lógica (Prolog)**
 Aquí están los archivos .pl (como el TP2 y las bases de conocimiento). Lo que más me gustó de Prolog fue aprender a no decirle a la computadora "cómo" hacer las cosas paso a paso, sino darle una base de hechos y reglas para que ella misma encuentre la respuesta. 
 
 * En el TP2, por ejemplo, definimos relaciones complejas donde una consulta simple puede resolver problemas que en otros lenguajes requerirían muchos bucles if y for.
