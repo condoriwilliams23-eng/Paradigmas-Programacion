@@ -8,7 +8,7 @@ Aquí están los archivos .pl (como el TP2 y las bases de conocimiento). Lo que 
 
 * En el TP2, por ejemplo, definimos relaciones complejas donde una consulta simple puede resolver problemas que en otros lenguajes requerirían muchos bucles if y for.
 
-**2. Objetos al Extremo (Smalltalk / Pharo)**
+**2. Objetos (Smalltalk)**
 El archivo TP1.st representa mi primer contacto con la Orientación a Objetos pura.
 * A diferencia de otros lenguajes, aquí todo es un objeto y todo se resuelve mediante mensajes. 
 * Subí también el enunciado del TP de POO para que se entienda el contexto del desafío que tuvimos que resolver.
